@@ -6,7 +6,7 @@
 
 <!-- Experience -->
 <div style="flex: 1; min-width: 300px; text-align: left;">
-    <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; padding-bottom: 5px;">🔭 Experi</h2>
+    <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; padding-bottom: 5px;">⏳ Experience</h2>
     <ul style="list-style: none; padding: 0; margin: 10px 0; line-height: 1.6;">
         <li><strong>Studied in Tribhuvan University</strong> - Computer Science and Information Technology(CSIT).
         <li><strong>Aspiring Backend Developer </strong>| Currently building projects with Node.js, Express, and MongoDB
