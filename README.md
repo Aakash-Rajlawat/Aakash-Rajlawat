@@ -1,5 +1,5 @@
 <div align = "center" > 
-<img src = "https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Aakash's%20Github&textBg=false&fontColor=000&fontAlign=50">
+<img src = "https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Aakash's%20Github&textBg=false&fontColor=00BFFF&fontAlign=50">
 </div>
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
